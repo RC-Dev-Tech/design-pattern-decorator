@@ -2,7 +2,6 @@
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
-<br>
 
 <!--ts-->
 ## 目錄
@@ -15,26 +14,22 @@
 <!--te-->
 
 ---
-<br>
 
 ## 目的
 在不改變現有對象的情況下，動態地給一個對象添加一些額外的職責。
 
 ---
-<br>
 
 ## 使用時機
 當需要在不影響現有代碼的前提下，對現有對象進行功能擴展或增強，且希望擴展的功能可以動態組合時。
 
 ---
-<br>
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1K21D11UZT6zUBPOVl1rfv3rRDzLZOvHJ)
 > 圖片來源：[Refactoring.Guru - Decorator](https://refactoring.guru/design-patterns/decorator) 
 
 ---
-<br>
 
 ## 實作成員
 * Component
@@ -47,22 +42,18 @@
  * 繼承Decorator類，實現對被裝飾對象的具體裝飾功能。
 
 ---
-<br>
 
 ## 實作範例:
 - [待補...]() 
 
 ---
-<br>
 
 ## 參考資料
 * [Wiki - Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern) <br>
 * [Refactoring.Guru - Decorator](https://refactoring.guru/design-patterns/decorator) <br>
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
